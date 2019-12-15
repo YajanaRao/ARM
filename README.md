@@ -1,2 +1,2 @@
 # ARM
-VHDL Programs
+ARM 7 TDMI Programs
